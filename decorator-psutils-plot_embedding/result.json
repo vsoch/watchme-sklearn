@@ -1,33 +1,33 @@
 [
     {
-        "create_time": 1557692630.8,
+        "create_time": 1557692633.99,
         "cmdline": [
             "/opt/conda/bin/python",
             "/plot_lle_digits.py"
         ],
         "nice": 0,
         "io_counters": {
-            "read_count": 90,
+            "read_count": 91,
             "write_count": 63,
             "read_bytes": 0,
             "write_bytes": 0,
-            "read_chars": 108048,
+            "read_chars": 108052,
             "write_chars": 2920
         },
         "terminal": "/dev/pts/2",
         "memory_full_info": {
-            "rss": 84799488,
-            "vms": 498446336,
-            "shared": 14516224,
+            "rss": 92868608,
+            "vms": 497463296,
+            "shared": 13963264,
             "text": 2342912,
             "lib": 0,
-            "data": 105033728,
+            "data": 99729408,
             "dirty": 0,
-            "uss": 5791744,
-            "pss": 33445888,
+            "uss": 2867200,
+            "pss": 33198080,
             "swap": 0
         },
-        "pid": 27788,
+        "pid": 27806,
         "cpu_percent": 0.0,
         "cpu_affinity": [
             0,
@@ -36,7 +36,7 @@
             3
         ],
         "open_files": 0,
-        "memory_percent": 0.4055605062463919,
+        "memory_percent": 0.4441517344406338,
         "cpu_times": {
             "user": 0.0,
             "system": 0.0,
@@ -61,50 +61,50 @@
             "effetive": 1000,
             "saved": 1000
         },
-        "status": "sleeping",
+        "status": "running",
         "num_ctx_switches": {
-            "voluntary": 9,
-            "involuntary": 81
+            "voluntary": 3,
+            "involuntary": 68
         },
-        "ppid": 27786,
+        "ppid": 27801,
         "name": "python",
         "exe": "/opt/conda/bin/python3.7",
         "username": "vanessa",
-        "cpu_num": 3,
+        "cpu_num": 1,
         "weight": "34",
         "density": "0.55",
         "LABEL": "singularity-container",
         "SECONDS": "0.25"
     },
     {
-        "create_time": 1557692630.8,
+        "create_time": 1557692633.99,
         "cmdline": [
             "/opt/conda/bin/python",
             "/plot_lle_digits.py"
         ],
         "nice": 0,
         "io_counters": {
-            "read_count": 277,
+            "read_count": 278,
             "write_count": 431,
             "read_bytes": 0,
             "write_bytes": 0,
-            "read_chars": 532103,
+            "read_chars": 532107,
             "write_chars": 26288
         },
         "terminal": "/dev/pts/2",
         "memory_full_info": {
-            "rss": 90271744,
-            "vms": 502624256,
-            "shared": 15851520,
+            "rss": 99082240,
+            "vms": 502525952,
+            "shared": 15167488,
             "text": 2342912,
             "lib": 0,
-            "data": 109211648,
+            "data": 104792064,
             "dirty": 0,
-            "uss": 22626304,
-            "pss": 45228032,
+            "uss": 22376448,
+            "pss": 49766400,
             "swap": 0
         },
-        "pid": 27788,
+        "pid": 27806,
         "cpu_percent": 0.0,
         "cpu_affinity": [
             0,
@@ -113,9 +113,9 @@
             3
         ],
         "open_files": 0,
-        "memory_percent": 0.4322413452314465,
+        "memory_percent": 0.4738689390957938,
         "cpu_times": {
-            "user": 0.13,
+            "user": 0.11,
             "system": 0.01,
             "children_user": 0.0,
             "children_system": 0.0
@@ -140,14 +140,91 @@
         },
         "status": "running",
         "num_ctx_switches": {
-            "voluntary": 376,
-            "involuntary": 111
+            "voluntary": 371,
+            "involuntary": 94
         },
-        "ppid": 27786,
+        "ppid": 27801,
         "name": "python",
         "exe": "/opt/conda/bin/python3.7",
         "username": "vanessa",
-        "cpu_num": 1,
+        "cpu_num": 3,
+        "weight": "34",
+        "density": "0.55",
+        "LABEL": "singularity-container",
+        "SECONDS": "0.25"
+    },
+    {
+        "create_time": 1557692633.99,
+        "cmdline": [
+            "/opt/conda/bin/python",
+            "/plot_lle_digits.py"
+        ],
+        "nice": 0,
+        "io_counters": {
+            "read_count": 278,
+            "write_count": 431,
+            "read_bytes": 0,
+            "write_bytes": 0,
+            "read_chars": 532107,
+            "write_chars": 26288
+        },
+        "terminal": "/dev/pts/2",
+        "memory_full_info": {
+            "rss": 108724224,
+            "vms": 510074880,
+            "shared": 17227776,
+            "text": 2342912,
+            "lib": 0,
+            "data": 112340992,
+            "dirty": 0,
+            "uss": 44904448,
+            "pss": 67647488,
+            "swap": 0
+        },
+        "pid": 27806,
+        "cpu_percent": 0.0,
+        "cpu_affinity": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "open_files": 0,
+        "memory_percent": 0.5199825183695226,
+        "cpu_times": {
+            "user": 0.44,
+            "system": 0.02,
+            "children_user": 0.0,
+            "children_system": 0.0
+        },
+        "ionice": {
+            "ioclass": "IOPRIO_CLASS_NONE",
+            "value": 4
+        },
+        "uids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "connections": [],
+        "cwd": "/home/vanessa/.watchme/sklearn",
+        "num_threads": 1,
+        "num_fds": 14,
+        "gids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "status": "running",
+        "num_ctx_switches": {
+            "voluntary": 373,
+            "involuntary": 161
+        },
+        "ppid": 27801,
+        "name": "python",
+        "exe": "/opt/conda/bin/python3.7",
+        "username": "vanessa",
+        "cpu_num": 3,
         "weight": "34",
         "density": "0.55",
         "LABEL": "singularity-container",
