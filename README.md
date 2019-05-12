@@ -154,3 +154,19 @@ for folder in $(find . -maxdepth 1 -type d -name 'decorator*' -print); do
     watchme export watchme-sklearn $folder --out data/$folder.json result.json --json --force
 done
 ```
+
+## Advanced
+
+If you already have a watchme repository, and it's located somewhere non-traditional,
+you can have watchme generate results in the folder where you happen to be by
+exporting the WATCHME_BASE_DIR first. 
+
+```bash
+export WATCHME_BASE_DIR=$(dirname $PWD)
+```
+
+And for a run from within a Singularity, container you would need to have this export as a `SINGULARITYENV_`
+
+```bash
+export SINGULARITYENV_WATCHME_BASE_DIR=$(dirname $PWD)
+```
