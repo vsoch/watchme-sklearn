@@ -1,6 +1,6 @@
 [
     {
-        "create_time": 1557692621.34,
+        "create_time": 1557692622.27,
         "cmdline": [
             "/opt/conda/bin/python",
             "/plot_lle_digits.py"
@@ -16,18 +16,18 @@
         },
         "terminal": "/dev/pts/2",
         "memory_full_info": {
-            "rss": 82432000,
-            "vms": 491687936,
-            "shared": 12967936,
+            "rss": 84930560,
+            "vms": 513863680,
+            "shared": 12976128,
             "text": 2342912,
             "lib": 0,
-            "data": 93954048,
+            "data": 116129792,
             "dirty": 0,
-            "uss": 4763648,
-            "pss": 31108096,
+            "uss": 6131712,
+            "pss": 33859584,
             "swap": 0
         },
-        "pid": 27697,
+        "pid": 27709,
         "cpu_percent": 0.0,
         "cpu_affinity": [
             0,
@@ -36,7 +36,7 @@
             3
         ],
         "open_files": 0,
-        "memory_percent": 0.39423780071528935,
+        "memory_percent": 0.4061873688363491,
         "cpu_times": {
             "user": 0.0,
             "system": 0.0,
@@ -63,21 +63,21 @@
         },
         "status": "sleeping",
         "num_ctx_switches": {
-            "voluntary": 65,
-            "involuntary": 28
+            "voluntary": 63,
+            "involuntary": 33
         },
-        "ppid": 27695,
+        "ppid": 27707,
         "name": "python",
         "exe": "/opt/conda/bin/python3.7",
         "username": "vanessa",
-        "cpu_num": 0,
+        "cpu_num": 2,
         "weight": "34",
         "density": "0.55",
         "LABEL": "singularity-container",
         "SECONDS": "0.25"
     },
     {
-        "create_time": 1557692621.34,
+        "create_time": 1557692622.27,
         "cmdline": [
             "/opt/conda/bin/python",
             "/plot_lle_digits.py"
@@ -93,18 +93,18 @@
         },
         "terminal": "/dev/pts/2",
         "memory_full_info": {
-            "rss": 88801280,
-            "vms": 497192960,
-            "shared": 14172160,
+            "rss": 90959872,
+            "vms": 516702208,
+            "shared": 16240640,
             "text": 2342912,
             "lib": 0,
-            "data": 99459072,
+            "data": 118968320,
             "dirty": 0,
-            "uss": 23072768,
-            "pss": 44875776,
+            "uss": 29323264,
+            "pss": 49429504,
             "swap": 0
         },
-        "pid": 27697,
+        "pid": 27709,
         "cpu_percent": 0.0,
         "cpu_affinity": [
             0,
@@ -113,10 +113,10 @@
             3
         ],
         "open_files": 0,
-        "memory_percent": 0.42599230878781036,
+        "memory_percent": 0.4350230479743817,
         "cpu_times": {
-            "user": 0.12,
-            "system": 0.01,
+            "user": 0.13,
+            "system": 0.02,
             "children_user": 0.0,
             "children_system": 0.0
         },
@@ -140,14 +140,14 @@
         },
         "status": "running",
         "num_ctx_switches": {
-            "voluntary": 428,
-            "involuntary": 135
+            "voluntary": 430,
+            "involuntary": 33
         },
-        "ppid": 27695,
+        "ppid": 27707,
         "name": "python",
         "exe": "/opt/conda/bin/python3.7",
         "username": "vanessa",
-        "cpu_num": 0,
+        "cpu_num": 2,
         "weight": "34",
         "density": "0.55",
         "LABEL": "singularity-container",
