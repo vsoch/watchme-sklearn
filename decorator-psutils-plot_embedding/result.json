@@ -1,33 +1,33 @@
 [
     {
-        "create_time": 1557692620.29,
+        "create_time": 1557692621.34,
         "cmdline": [
             "/opt/conda/bin/python",
             "/plot_lle_digits.py"
         ],
         "nice": 0,
         "io_counters": {
-            "read_count": 100,
+            "read_count": 90,
             "write_count": 63,
             "read_bytes": 0,
             "write_bytes": 0,
-            "read_chars": 114523,
+            "read_chars": 108048,
             "write_chars": 2920
         },
         "terminal": "/dev/pts/2",
         "memory_full_info": {
-            "rss": 85598208,
-            "vms": 403013632,
-            "shared": 16609280,
+            "rss": 82432000,
+            "vms": 491687936,
+            "shared": 12967936,
             "text": 2342912,
             "lib": 0,
-            "data": 72257536,
+            "data": 93954048,
             "dirty": 0,
-            "uss": 4501504,
-            "pss": 30802944,
+            "uss": 4763648,
+            "pss": 31108096,
             "swap": 0
         },
-        "pid": 27676,
+        "pid": 27697,
         "cpu_percent": 0.0,
         "cpu_affinity": [
             0,
@@ -36,7 +36,7 @@
             3
         ],
         "open_files": 0,
-        "memory_percent": 0.4093804501539437,
+        "memory_percent": 0.39423780071528935,
         "cpu_times": {
             "user": 0.0,
             "system": 0.0,
@@ -64,9 +64,9 @@
         "status": "sleeping",
         "num_ctx_switches": {
             "voluntary": 65,
-            "involuntary": 20
+            "involuntary": 28
         },
-        "ppid": 27675,
+        "ppid": 27695,
         "name": "python",
         "exe": "/opt/conda/bin/python3.7",
         "username": "vanessa",
@@ -77,34 +77,34 @@
         "SECONDS": "0.25"
     },
     {
-        "create_time": 1557692620.29,
+        "create_time": 1557692621.34,
         "cmdline": [
             "/opt/conda/bin/python",
             "/plot_lle_digits.py"
         ],
         "nice": 0,
         "io_counters": {
-            "read_count": 287,
+            "read_count": 277,
             "write_count": 431,
             "read_bytes": 0,
             "write_bytes": 0,
-            "read_chars": 538578,
+            "read_chars": 532103,
             "write_chars": 26288
         },
         "terminal": "/dev/pts/2",
         "memory_full_info": {
-            "rss": 91447296,
-            "vms": 407740416,
-            "shared": 17883136,
+            "rss": 88801280,
+            "vms": 497192960,
+            "shared": 14172160,
             "text": 2342912,
             "lib": 0,
-            "data": 76984320,
+            "data": 99459072,
             "dirty": 0,
-            "uss": 24797184,
-            "pss": 47774720,
+            "uss": 23072768,
+            "pss": 44875776,
             "swap": 0
         },
-        "pid": 27676,
+        "pid": 27697,
         "cpu_percent": 0.0,
         "cpu_affinity": [
             0,
@@ -113,7 +113,7 @@
             3
         ],
         "open_files": 0,
-        "memory_percent": 0.43735419323078517,
+        "memory_percent": 0.42599230878781036,
         "cpu_times": {
             "user": 0.12,
             "system": 0.01,
@@ -140,14 +140,14 @@
         },
         "status": "running",
         "num_ctx_switches": {
-            "voluntary": 433,
-            "involuntary": 40
+            "voluntary": 428,
+            "involuntary": 135
         },
-        "ppid": 27675,
+        "ppid": 27695,
         "name": "python",
         "exe": "/opt/conda/bin/python3.7",
         "username": "vanessa",
-        "cpu_num": 3,
+        "cpu_num": 0,
         "weight": "34",
         "density": "0.55",
         "LABEL": "singularity-container",
