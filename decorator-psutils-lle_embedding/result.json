@@ -1,0 +1,387 @@
+[
+    {
+        "create_time": 1557692625.3,
+        "cmdline": [
+            "/opt/conda/bin/python",
+            "/plot_lle_digits.py"
+        ],
+        "nice": 0,
+        "io_counters": {
+            "read_count": 1,
+            "write_count": 1,
+            "read_bytes": 0,
+            "write_bytes": 0,
+            "read_chars": 2496,
+            "write_chars": 24
+        },
+        "terminal": "/dev/pts/2",
+        "memory_full_info": {
+            "rss": 75005952,
+            "vms": 400314368,
+            "shared": 6524928,
+            "text": 2342912,
+            "lib": 0,
+            "data": 69570560,
+            "dirty": 0,
+            "uss": 4063232,
+            "pss": 38739968,
+            "swap": 0
+        },
+        "pid": 27736,
+        "cpu_percent": 0.0,
+        "cpu_affinity": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "open_files": 0,
+        "memory_percent": 0.35872211710302504,
+        "cpu_times": {
+            "user": 0.05,
+            "system": 0.0,
+            "children_user": 0.0,
+            "children_system": 0.0
+        },
+        "ionice": {
+            "ioclass": "IOPRIO_CLASS_NONE",
+            "value": 4
+        },
+        "uids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "connections": [],
+        "cwd": "/home/vanessa/.watchme/sklearn",
+        "num_threads": 1,
+        "num_fds": 9,
+        "gids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "status": "running",
+        "num_ctx_switches": {
+            "voluntary": 0,
+            "involuntary": 29
+        },
+        "ppid": 27663,
+        "name": "python",
+        "exe": "/opt/conda/bin/python3.7",
+        "username": "vanessa",
+        "cpu_num": 3,
+        "weight": "34",
+        "density": "0.55",
+        "LABEL": "singularity-container",
+        "SECONDS": "0.25"
+    },
+    {
+        "create_time": 1557692625.3,
+        "cmdline": [
+            "/opt/conda/bin/python",
+            "/plot_lle_digits.py"
+        ],
+        "nice": 0,
+        "io_counters": {
+            "read_count": 11,
+            "write_count": 1,
+            "read_bytes": 211968,
+            "write_bytes": 0,
+            "read_chars": 8971,
+            "write_chars": 24
+        },
+        "terminal": "/dev/pts/2",
+        "memory_full_info": {
+            "rss": 104325120,
+            "vms": 503394304,
+            "shared": 18857984,
+            "text": 2342912,
+            "lib": 0,
+            "data": 105672704,
+            "dirty": 0,
+            "uss": 32124928,
+            "pss": 67709952,
+            "swap": 0
+        },
+        "pid": 27736,
+        "cpu_percent": 0.0,
+        "cpu_affinity": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "open_files": 0,
+        "memory_percent": 0.498943442694083,
+        "cpu_times": {
+            "user": 0.41,
+            "system": 0.02,
+            "children_user": 0.0,
+            "children_system": 0.0
+        },
+        "ionice": {
+            "ioclass": "IOPRIO_CLASS_NONE",
+            "value": 0
+        },
+        "uids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "connections": [],
+        "cwd": "/home/vanessa/.watchme/sklearn",
+        "num_threads": 2,
+        "num_fds": 9,
+        "gids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "status": "running",
+        "num_ctx_switches": {
+            "voluntary": 17,
+            "involuntary": 110
+        },
+        "ppid": 27663,
+        "name": "python",
+        "exe": "/opt/conda/bin/python3.7",
+        "username": "vanessa",
+        "cpu_num": 1,
+        "weight": "34",
+        "density": "0.55",
+        "LABEL": "singularity-container",
+        "SECONDS": "0.25"
+    },
+    {
+        "create_time": 1557692625.3,
+        "cmdline": [
+            "/opt/conda/bin/python",
+            "/plot_lle_digits.py"
+        ],
+        "nice": 0,
+        "io_counters": {
+            "read_count": 262,
+            "write_count": 5,
+            "read_bytes": 324608,
+            "write_bytes": 0,
+            "read_chars": 797477,
+            "write_chars": 160
+        },
+        "terminal": "/dev/pts/2",
+        "memory_full_info": {
+            "rss": 96055296,
+            "vms": 510959616,
+            "shared": 22294528,
+            "text": 2342912,
+            "lib": 0,
+            "data": 113225728,
+            "dirty": 0,
+            "uss": 15794176,
+            "pss": 44792832,
+            "swap": 0
+        },
+        "pid": 27736,
+        "cpu_percent": 0.0,
+        "cpu_affinity": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "open_files": 0,
+        "memory_percent": 0.45939233115896905,
+        "cpu_times": {
+            "user": 0.88,
+            "system": 0.07,
+            "children_user": 0.0,
+            "children_system": 0.0
+        },
+        "ionice": {
+            "ioclass": "IOPRIO_CLASS_NONE",
+            "value": 0
+        },
+        "uids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "connections": [],
+        "cwd": "/home/vanessa/.watchme/sklearn",
+        "num_threads": 2,
+        "num_fds": 12,
+        "gids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "status": "sleeping",
+        "num_ctx_switches": {
+            "voluntary": 44,
+            "involuntary": 128
+        },
+        "ppid": 27663,
+        "name": "python",
+        "exe": "/opt/conda/bin/python3.7",
+        "username": "vanessa",
+        "cpu_num": 1,
+        "weight": "34",
+        "density": "0.55",
+        "LABEL": "singularity-container",
+        "SECONDS": "0.25"
+    },
+    {
+        "create_time": 1557692625.3,
+        "cmdline": [
+            "/opt/conda/bin/python",
+            "/plot_lle_digits.py"
+        ],
+        "nice": 0,
+        "io_counters": {
+            "read_count": 510,
+            "write_count": 5,
+            "read_bytes": 324608,
+            "write_bytes": 0,
+            "read_chars": 1581114,
+            "write_chars": 160
+        },
+        "terminal": "/dev/pts/2",
+        "memory_full_info": {
+            "rss": 96120832,
+            "vms": 510959616,
+            "shared": 22360064,
+            "text": 2342912,
+            "lib": 0,
+            "data": 113225728,
+            "dirty": 0,
+            "uss": 19714048,
+            "pss": 47360000,
+            "swap": 0
+        },
+        "pid": 27736,
+        "cpu_percent": 0.0,
+        "cpu_affinity": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "open_files": 0,
+        "memory_percent": 0.4597057624539476,
+        "cpu_times": {
+            "user": 0.98,
+            "system": 0.09,
+            "children_user": 0.0,
+            "children_system": 0.0
+        },
+        "ionice": {
+            "ioclass": "IOPRIO_CLASS_NONE",
+            "value": 0
+        },
+        "uids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "connections": [],
+        "cwd": "/home/vanessa/.watchme/sklearn",
+        "num_threads": 2,
+        "num_fds": 12,
+        "gids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "status": "sleeping",
+        "num_ctx_switches": {
+            "voluntary": 45,
+            "involuntary": 136
+        },
+        "ppid": 27663,
+        "name": "python",
+        "exe": "/opt/conda/bin/python3.7",
+        "username": "vanessa",
+        "cpu_num": 2,
+        "weight": "34",
+        "density": "0.55",
+        "LABEL": "singularity-container",
+        "SECONDS": "0.25"
+    },
+    {
+        "create_time": 1557692625.3,
+        "cmdline": [
+            "/opt/conda/bin/python",
+            "/plot_lle_digits.py"
+        ],
+        "nice": 0,
+        "io_counters": {
+            "read_count": 757,
+            "write_count": 5,
+            "read_bytes": 324608,
+            "write_bytes": 0,
+            "read_chars": 2366230,
+            "write_chars": 160
+        },
+        "terminal": "/dev/pts/2",
+        "memory_full_info": {
+            "rss": 96120832,
+            "vms": 510959616,
+            "shared": 22360064,
+            "text": 2342912,
+            "lib": 0,
+            "data": 113225728,
+            "dirty": 0,
+            "uss": 19755008,
+            "pss": 47392768,
+            "swap": 0
+        },
+        "pid": 27736,
+        "cpu_percent": 0.0,
+        "cpu_affinity": [
+            0,
+            1,
+            2,
+            3
+        ],
+        "open_files": 0,
+        "memory_percent": 0.4597057624539476,
+        "cpu_times": {
+            "user": 1.04,
+            "system": 0.09,
+            "children_user": 0.0,
+            "children_system": 0.0
+        },
+        "ionice": {
+            "ioclass": "IOPRIO_CLASS_NONE",
+            "value": 0
+        },
+        "uids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "connections": [],
+        "cwd": "/home/vanessa/.watchme/sklearn",
+        "num_threads": 2,
+        "num_fds": 12,
+        "gids": {
+            "real": 1000,
+            "effetive": 1000,
+            "saved": 1000
+        },
+        "status": "sleeping",
+        "num_ctx_switches": {
+            "voluntary": 46,
+            "involuntary": 152
+        },
+        "ppid": 27663,
+        "name": "python",
+        "exe": "/opt/conda/bin/python3.7",
+        "username": "vanessa",
+        "cpu_num": 0,
+        "weight": "34",
+        "density": "0.55",
+        "LABEL": "singularity-container",
+        "SECONDS": "0.25"
+    }
+]
