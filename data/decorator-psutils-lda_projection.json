@@ -1,0 +1,238 @@
+{
+    "commits": [
+        "ceaea76e44bb024e2a488cec51720ee9f26c669a"
+    ],
+    "dates": [
+        "2019-05-12 16:23:44 -0400"
+    ],
+    "content": [
+        {
+            "create_time": 1557692622.2,
+            "cmdline": [
+                "/opt/conda/bin/python",
+                "/plot_lle_digits.py"
+            ],
+            "nice": 0,
+            "io_counters": {
+                "read_count": 4,
+                "write_count": 1,
+                "read_bytes": 72704,
+                "write_bytes": 0,
+                "read_chars": 3835,
+                "write_chars": 50
+            },
+            "terminal": "/dev/pts/2",
+            "memory_full_info": {
+                "rss": 84234240,
+                "vms": 404090880,
+                "shared": 14262272,
+                "text": 2342912,
+                "lib": 0,
+                "data": 73347072,
+                "dirty": 0,
+                "uss": 4116480,
+                "pss": 38625280,
+                "swap": 0
+            },
+            "pid": 27707,
+            "cpu_percent": 0.0,
+            "cpu_affinity": [
+                2
+            ],
+            "open_files": 0,
+            "memory_percent": 0.4028571613272013,
+            "cpu_times": {
+                "user": 0.01,
+                "system": 0.0,
+                "children_user": 0.0,
+                "children_system": 0.0
+            },
+            "ionice": {
+                "ioclass": "IOPRIO_CLASS_NONE",
+                "value": 0
+            },
+            "uids": {
+                "real": 1000,
+                "effetive": 1000,
+                "saved": 1000
+            },
+            "connections": [],
+            "cwd": "/home/vanessa/.watchme/sklearn",
+            "num_threads": 1,
+            "num_fds": 9,
+            "gids": {
+                "real": 1000,
+                "effetive": 1000,
+                "saved": 1000
+            },
+            "status": "running",
+            "num_ctx_switches": {
+                "voluntary": 27,
+                "involuntary": 12
+            },
+            "ppid": 27663,
+            "name": "python",
+            "exe": "/opt/conda/bin/python3.7",
+            "username": "vanessa",
+            "cpu_num": 2,
+            "weight": "34",
+            "density": "0.55",
+            "LABEL": "singularity-container",
+            "SECONDS": "0.25"
+        },
+        {
+            "create_time": 1557692622.2,
+            "cmdline": [
+                "/opt/conda/bin/python",
+                "/plot_lle_digits.py"
+            ],
+            "nice": 0,
+            "io_counters": {
+                "read_count": 262,
+                "write_count": 4,
+                "read_bytes": 860160,
+                "write_bytes": 0,
+                "read_chars": 797777,
+                "write_chars": 146
+            },
+            "terminal": "/dev/pts/2",
+            "memory_full_info": {
+                "rss": 94404608,
+                "vms": 513863680,
+                "shared": 22536192,
+                "text": 2342912,
+                "lib": 0,
+                "data": 116129792,
+                "dirty": 0,
+                "uss": 16322560,
+                "pss": 44606464,
+                "swap": 0
+            },
+            "pid": 27707,
+            "cpu_percent": 0.0,
+            "cpu_affinity": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "open_files": 0,
+            "memory_percent": 0.4514977804166952,
+            "cpu_times": {
+                "user": 0.24,
+                "system": 0.05,
+                "children_user": 0.0,
+                "children_system": 0.0
+            },
+            "ionice": {
+                "ioclass": "IOPRIO_CLASS_NONE",
+                "value": 0
+            },
+            "uids": {
+                "real": 1000,
+                "effetive": 1000,
+                "saved": 1000
+            },
+            "connections": [],
+            "cwd": "/home/vanessa/.watchme/sklearn",
+            "num_threads": 2,
+            "num_fds": 12,
+            "gids": {
+                "real": 1000,
+                "effetive": 1000,
+                "saved": 1000
+            },
+            "status": "sleeping",
+            "num_ctx_switches": {
+                "voluntary": 313,
+                "involuntary": 22
+            },
+            "ppid": 27663,
+            "name": "python",
+            "exe": "/opt/conda/bin/python3.7",
+            "username": "vanessa",
+            "cpu_num": 0,
+            "weight": "34",
+            "density": "0.55",
+            "LABEL": "singularity-container",
+            "SECONDS": "0.25"
+        },
+        {
+            "create_time": 1557692622.2,
+            "cmdline": [
+                "/opt/conda/bin/python",
+                "/plot_lle_digits.py"
+            ],
+            "nice": 0,
+            "io_counters": {
+                "read_count": 509,
+                "write_count": 4,
+                "read_bytes": 860160,
+                "write_bytes": 0,
+                "read_chars": 1582203,
+                "write_chars": 146
+            },
+            "terminal": "/dev/pts/2",
+            "memory_full_info": {
+                "rss": 94470144,
+                "vms": 513863680,
+                "shared": 22601728,
+                "text": 2342912,
+                "lib": 0,
+                "data": 116129792,
+                "dirty": 0,
+                "uss": 17293312,
+                "pss": 47837184,
+                "swap": 0
+            },
+            "pid": 27707,
+            "cpu_percent": 0.0,
+            "cpu_affinity": [
+                0,
+                1,
+                2,
+                3
+            ],
+            "open_files": 0,
+            "memory_percent": 0.45181121171167377,
+            "cpu_times": {
+                "user": 0.28,
+                "system": 0.06,
+                "children_user": 0.0,
+                "children_system": 0.0
+            },
+            "ionice": {
+                "ioclass": "IOPRIO_CLASS_NONE",
+                "value": 0
+            },
+            "uids": {
+                "real": 1000,
+                "effetive": 1000,
+                "saved": 1000
+            },
+            "connections": [],
+            "cwd": "/home/vanessa/.watchme/sklearn",
+            "num_threads": 2,
+            "num_fds": 12,
+            "gids": {
+                "real": 1000,
+                "effetive": 1000,
+                "saved": 1000
+            },
+            "status": "sleeping",
+            "num_ctx_switches": {
+                "voluntary": 314,
+                "involuntary": 22
+            },
+            "ppid": 27663,
+            "name": "python",
+            "exe": "/opt/conda/bin/python3.7",
+            "username": "vanessa",
+            "cpu_num": 0,
+            "weight": "34",
+            "density": "0.55",
+            "LABEL": "singularity-container",
+            "SECONDS": "0.25"
+        }
+    ]
+}
